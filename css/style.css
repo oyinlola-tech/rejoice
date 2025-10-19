@@ -413,8 +413,8 @@ section h2 {
 
 /* ===== CONNECT SECTION ===== */
 .connect {
-  background: linear-gradient(135deg, #ffb6c1, #ff69b4);
-  color: #ff69b4;
+  background: linear-gradient(135deg, #ffb6c1,) !important;
+  color: #ff69b4 !important;
 }
 
 .connect-item {
