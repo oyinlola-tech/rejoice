@@ -556,5 +556,11 @@ section h2 {
     box-shadow: 1px 1px 2px 2px rgb(255, 105, 180, 0.21);
     align-self: center;
     border-radius: 60px 60px 60px 60px;
+    
   } 
+
+  .container-hero-content {
+    margin-top: -85px;
+  }
+
 }
